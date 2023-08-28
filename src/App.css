@@ -1,0 +1,18 @@
+.card{
+  background:palegreen;
+
+}
+
+.heading{
+background:rgb(230, 247, 78);
+
+}
+
+.text-light{
+position: relative;
+top: 31px;
+}
+body{
+  background-color: rgb(247, 158, 114);
+}
+
